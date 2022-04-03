@@ -1,0 +1,26 @@
+body {
+	font-family: Tahoma;
+	background-color:#ffffff;
+	margin: 0;
+}
+form {
+	margin: 0 auto;
+	width: 450px;
+	height: 500px;
+	padding: 20px;
+}
+.container {
+	background-color: #ff0000;
+	margin:10px;
+	text-align: center;
+}
+input[type="text"] {
+	width: 400px;
+	height: 40px;
+	font-size: 15px;
+	margin-top: 10 px;
+	padding-right: 10px;
+	border-radius: 20px/20px;
+	border:none;
+	
+}
